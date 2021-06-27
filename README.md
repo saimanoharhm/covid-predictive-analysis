@@ -18,16 +18,17 @@ We have done this project as part of HACK THE MOUNTAINS 2.O Hackathon.
 ## Track
 Open Innovation
 
-## Project Team
-- Annam Sai Manohar
-- Kolapalli Naga Venkatesh
-- Paramsetti Manoj
-- Ravipati Abhiram
+## Presentation
+https://docs.google.com/presentation/d/14ky7iXULEDjH-lrs-oumpQn6Fxv3DNqLtGcxv4ELhRQ/edit?usp=sharing
 
 ## Images 
 
 <a href="https://imgur.com/mfH397C"><img src="https://i.imgur.com/mfH397C.jpg" title="source: imgur.com" /></a>
 <a href="https://imgur.com/PD1vb0K"><img src="https://i.imgur.com/PD1vb0K.jpg" title="source: imgur.com" /></a>
 
-
+## Project Team
+- Annam Sai Manohar
+- Kolapalli Naga Venkatesh
+- Paramsetti Manoj
+- Ravipati Abhiram
 
